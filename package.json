@@ -1,0 +1,29 @@
+{
+
+  "name": "Scrim Otorol Botu",
+
+  "version": "1.0.0",
+
+  "description": "Scrim Sunucuları İçin Otorol Bot Altyapısı",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "^14.0.0",
+
+    "fs": "^0.0.1-security"
+
+  }
+
+}security"
+
+  }
+
+}
